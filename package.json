@@ -1,0 +1,19 @@
+{
+    "name": "mmorpg-login",
+    "version": "1.0.0",
+    "description": "Login Page para um jogo MMORPG",
+    "main": "index.js",
+    "scripts": {
+      "start": "serve -s build",
+      "build": "react-scripts build"
+    },
+    "author": "Marlon Ribeiro",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "4.0.3",
+      "serve": "^13.1.0"
+    }
+  }
+  
